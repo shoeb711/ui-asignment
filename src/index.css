@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'SF Pro Text';
+  src: local('SFPRODISPLAYREGULAR'),
+    url('./assets/fonts/SFPRODISPLAYREGULAR.OTF') format('truetype');
+}
+
+#root {
+  font-family: 'SF Pro Text';
+}
+
+body {
+  margin: 0;
+}
